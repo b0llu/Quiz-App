@@ -54,6 +54,20 @@ const quizData = [{
     c: 'Rahul Gandhi',
     d: 'Arvin Kejriwal',
     correct: 'b'
+}, {
+    question: 'Do you know my Favourite Soda Flavour?',
+    a: 'Masala Soda',
+    b: 'Awla Soda',
+    c: 'Lemon Full Jar Soda',
+    d: 'Orange Soda',
+    correct: 'c'
+}, {
+    question: 'Who is my Favourite Anime Charater?',
+    a: 'Goku',
+    b: 'Light Yagami',
+    c: 'Minato',
+    d: 'Captain Yami',
+    correct: 'b'
 }]
 
 const answersEls = document.querySelectorAll('.answer');
